@@ -1,0 +1,20 @@
+PODS:
+  - FSPagerView (0.8.1)
+  - Kingfisher (4.10.0)
+
+DEPENDENCIES:
+  - FSPagerView
+  - Kingfisher
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FSPagerView
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  FSPagerView: 4e865526acc0b0e3077e2abb29b8d10a9f395476
+  Kingfisher: 43c4b802d8b5256cf1f4379e9cd10b329be6d3e2
+
+PODFILE CHECKSUM: 544a6281cc80eb17b325c3677ee50c833043c3fa
+
+COCOAPODS: 1.5.3
